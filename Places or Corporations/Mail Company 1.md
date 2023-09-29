@@ -1,0 +1,1 @@
+Mails normal mails stuff and small packages within a few days. Cheaper. Usually within city walls. [[Letter 2 to Myth]], [[Letter 1 from Myth]] were sent through this by [[Mythdran Cauldic]] and [[Nahran Umbra]]. 

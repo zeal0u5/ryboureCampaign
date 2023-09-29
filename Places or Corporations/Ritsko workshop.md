@@ -1,0 +1,3 @@
+The group goes here in [[Session 6]] to try to get the protoype back from [[Ritsko]]. It opens into a room like [[orênge workshop]] and then into a testing room with a lot of trinkets and toys. 
+
+Large building of opalescent grey, without seams on the house, very well crafted. No windows, but it has porthole mouths. Pipes go in and out the building. 2 stories but a domed roof on the 3rd story. Does not fit with any architecture, corners are curved, and the door is curved. 

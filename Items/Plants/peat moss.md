@@ -1,0 +1,1 @@
+[[shane twillin]] is the man that sold this moss to [[Nahran Umbra]]. It is found in the [[the gloom marsh]] in the [[kessigs expance]].

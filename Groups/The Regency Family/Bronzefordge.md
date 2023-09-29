@@ -1,0 +1,3 @@
+The [[Bronzefordge]] are a family of Dwarves, known as the original architects of the Gilded Strip. Elias Bronzeforge was the one to create the first plans for the strip, the first representative of his family at the meeting of the 5, and the second regent. In present day, the Bronzefordge are heavily invested in construction, development, and the betterment of the civil architecture of [[Ryboure]]. They are currently second in line after the current regent. Young prodigy in both magic and strategic planning, Bruin Bronzefordge seems like the next in line for the family regency bid, though some worry about his inexperience.
+
+After [[Embergleam]] in [[The Regency]].

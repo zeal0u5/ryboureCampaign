@@ -1,0 +1,1 @@
+This is the entrance to [[The Sewers]]. It is also like a main center square 4.5 feet diameter. Very heavy.

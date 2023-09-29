@@ -1,0 +1,1 @@
+Kyre is one of three moons in the universe. It will become a full moon on the 19th of Dra'in. Many people come together for a full moon festival to celebrate luck and prosperity. The celebration is made by [[Church of Erathis]]. 

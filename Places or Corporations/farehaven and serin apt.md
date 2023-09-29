@@ -1,0 +1,3 @@
+flowy archetecture, it is like an attic room, polished. various outcoves, plenty of space. two rooms one bedroom with two beds and various other outsoves. and a small kitchenette and a table. It comes with the beds but not the rest. (second floor for rent). Very close to the [[conservatorium arcanum]].
+
+[[Serinus Alder Catiline of Nephrite]] and [[Sherrington (Sherry) Farehaven]] decided on this venue for their new apartment. Rent is 10 gold a month. Thier lease is here: [[apartment lease]].

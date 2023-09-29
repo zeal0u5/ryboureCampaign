@@ -1,0 +1,3 @@
+This is the caravan that [[Serinus Alder Catiline of Nephrite]] [[Ogan the Flame Shell]] [[Lizee]] [[Sherrington (Sherry) Farehaven]] and [[Nahran Umbra]] came across. 
+
+They have been set up around like store fronts and chairs. around the path from two carts being deconstructed. The caravan includes [[lil' ricky]], [[Big ricky]], [[Ricky]], [[Anthalora]], [[Geezer]], [[Draulonus]]. They all sell different things and are a part of the group. They have a little song and dance that they do in order to buy things. They sell a lot of stuff including costumes, knick knacks, weapons, books, and other. They sold us the [[polished black stone orb]] and [[ruby]]. They can unpack and repack quickly. The carts are driven by giant mountain goats. 

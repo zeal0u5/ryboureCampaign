@@ -1,0 +1,3 @@
+STATUS: ALIVE
+
+This is a woman that we found while in the [[the gloom marsh]] in [[the sludge pits]]. She got shot in the leg by a  large lion like beast with spike tail and leathery wings. She does fighting with [[grimsk]] who almost dies. We save them and take them to the old tower where [[arndor goldenvow]] says there are witches to sleep there for the night. they were hunting the beast and tracked it to here and injured its wing and then it ambushed them they are very injured and a little stuck.

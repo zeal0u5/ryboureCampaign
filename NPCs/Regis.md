@@ -1,0 +1,3 @@
+STATUS: UNKOWN
+
+Regis was met in [[Session 3]] in [[the depths]]. He is a monster hunter and was tracking a beast, but got lost. older (40s) dark purple skin tiefling massive longbow a lot of weapons studying a map. The beast is a rather unique though, there a “quite dangerous” they usually live 5-600 feet down, larger, and different coloration, Hooved feet fit through most of the tunnels but tight squeeze.

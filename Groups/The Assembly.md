@@ -1,0 +1,3 @@
+The Assembly is a group of politicians, local leaders, guild representatives, religious leaders, and other figures of import. The goal of the assembly is to represent all the peoples of [[Ryboure]], but it too is not untouched by corruption. It keeps the [[The Regency]] in check, and new members are inducted at a ceremony every two years. Representatives serve for life, or until their constituency is ruled to no longer have enough influence or stake for a representative, in which case their seat is removed, or their constituency sees fit to replace them, in which case their seat is filled by another representative. Currently there are 380 members of the assembly, with plans to add more in 6 months. 
+
+[[Brar Venhart]], [[Fontar]] (temporary), [[Vrekstan'kenn]],

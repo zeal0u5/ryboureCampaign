@@ -1,0 +1,2 @@
+NO furniture, the ceiling is excactly the same and the same stone door we came through Smaller, sweet dripping humidity, no windows, cutouts in the wood, on the other side: door, blocking it is a small wooden bar stool pedestal. on it is a velvet cloth pillow
+this housed the [[fly]] in the [[Interdimensional Whore's Dungeon]] [[Serinus Alder Catiline of Nephrite]] killed [[fly]]. [[Lizee]], [[Nahran Umbra]], [[Sherrington (Sherry) Farehaven]], [[Ogan the Flame Shell]] get bit. 

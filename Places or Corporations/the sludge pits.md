@@ -1,0 +1,1 @@
+This is within [[the gloom marsh]] in the [[kessigs expance]]. it is by there is a low lying mist that smells of rotten eggs and large pockets of sludge. There are almost sludge lakes ponds and pits. There is a semi translucent liquid on top. 

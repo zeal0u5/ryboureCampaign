@@ -1,0 +1,3 @@
+STATUS: ALIVE
+
+These are one of the first people infected by the outbreak in [[Session 16]]. [[Lizee]], [[Ogan the Flame Shell]], [[Nahran Umbra]], [[Sherrington (Sherry) Farehaven]], and [[Serinus Alder Catiline of Nephrite]] ask them questions to get to the bottom of the sickness. [[Ogan the Flame Shell]] cures the entire family. They live in [[Lower bralumn]] and are some of the poorer families and cant afford the health care. 

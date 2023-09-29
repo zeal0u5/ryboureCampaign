@@ -1,0 +1,1 @@
+action choose a creature that you canhear and see. roll one die the other die rolls for that creature. pure chance. depending on what you roll. roll a die 8 and decide what affect is given. [[Sherrington (Sherry) Farehaven]] has this.

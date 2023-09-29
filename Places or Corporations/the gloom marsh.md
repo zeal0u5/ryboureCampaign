@@ -1,0 +1,1 @@
+The gloom marsh is a swamp area south of [[Ryboure]] within the [[kessigs expance]]. It is not a safe place to be. There is not much jurisdiction. It tends to stay gloomy and dark within the marsh. There are many beasts and dangers there. [[lirien]] Lives there. 

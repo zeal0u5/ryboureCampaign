@@ -1,0 +1,1 @@
+This is within [[the gloom marsh]] in the [[kessigs expance]] just north of [[the sludge pits]]. This is where [[velsh baln]] resides. 

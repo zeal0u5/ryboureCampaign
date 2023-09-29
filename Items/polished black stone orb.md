@@ -1,0 +1,1 @@
+Magical divination. It can predict with 90% accuracy if the person will have all of their limbs at the same time the next day. It was in the polished wooden box with [[Draulonus]] at the [[Mooncrest traveling Curio stand and entertainment venue]]. 5gp price.

@@ -1,0 +1,5 @@
+This started in [[Session 9]] and ended in [[Session 10]]. 
+
+The [[whore head]] creaded this dungeon to punish us and to realize what a horse's life is like. It incuded trials and tribulations that started by getting pulled through a [[carved archway]] into the [[omonous cozy room with darkness]]. Then through the door was the [[Skull Room]] that had the [[skull with red eyes]]. Next was [[The fly room]] that had the [[fly]] that did not like us. Next was the [[Statue Room]] with the [[soldier with warhammer]] that also did not like us. Next was the [[Obelisk Time Room]] that gave us points of exhaustion. Then was the [[Cube of Jelly Room]] with the [[cube of jelly]] that fucked [[Nahran Umbra]] up. The [[Magma Room]] was next. After that was the [[History Table Room]] and then finally the [[Whore Head Room]] was last where the [[whore head]] explained his master plan and past history of suffering. 
+
+This place trapped [[Nahran Umbra]], [[Serinus Alder Catiline of Nephrite]], [[Lizee]], [[Ogan the Flame Shell]], and [[Sherrington (Sherry) Farehaven]]. 

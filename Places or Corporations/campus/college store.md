@@ -1,0 +1,1 @@
+[[Serinus Alder Catiline of Nephrite]] went here to get an owl feather for the identify spell for the [[ruby]]. He could not get a feather so he bought [[barnabey]], an entire owl. It is in the [[VANGUARD]] region. 

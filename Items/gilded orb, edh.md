@@ -1,0 +1,1 @@
+[[Ogan the Flame Shell]] fould this orb while going into [[conservatorium arcanum library]] at the [[conservatorium arcanum]]. I is a weave of metal that surrounds a crystal in the center. It gives off a low huim that increases when near books or when it is read to. 

@@ -1,0 +1,2 @@
+
+With 6 temples around the city, Moridin’s following is heavily skewed towards artisans, crafters, and even some inventors. Bringing 8 representatives to [[the assembly]], their political beliefs are closely tied with that of the various guilds, only breaking from economic allegiance on matters of religious nature. The [[Church of Erathis]] is grateful for the role and service that the Hearth plays, but is also wholly unthreatened by the worship of Moridin within the city.

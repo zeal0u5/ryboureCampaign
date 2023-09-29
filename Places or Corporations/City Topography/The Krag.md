@@ -1,0 +1,1 @@
+This is anpther entrance to get to [[the depths]] in the city of [[Ryboure]]. It is a dangerous ravine on the northernmost point of the city, or any number of various tunnels, cave openings, and passageways from the [[Gilded Strip]] or [[Erathis’ Band]].

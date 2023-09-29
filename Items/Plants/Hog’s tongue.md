@@ -1,0 +1,3 @@
+-   Fungus that grows in caves, stapled in a lot of home remedies
+-  I would know hogs tongue and find some, get 1.5 bunches of tongue
+- [[Mythdran Cauldic]] directed the group to a few bunches in [[Session 3]]

@@ -1,0 +1,1 @@
+This is the area outside of the city. It include the mountains to the north of the city and the forests/plains to the south of the city where [[Ogan and Lizee's Home]] is. This area is fertle land and is affected by the druidic magic from the [[Kessig's Tend]]. Many people have encoutnered andits in this area.

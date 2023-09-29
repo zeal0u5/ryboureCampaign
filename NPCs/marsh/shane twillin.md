@@ -1,0 +1,1 @@
+This is a [[peat moss]] seller within [[the sludge pits]] in [[the gloom marsh]]. He does not know where the skittering is. He tells us about the old tower. 

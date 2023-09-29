@@ -1,0 +1,1 @@
+The first branch of [[the three legents]] is running the objective. They go out into the [[kessigs expance]] and map out or remove threats to the city since it is mostly unlawful area. They just finished this part of it. [[Fontar]] is a part of the commision on [[The Assembly]] for it. 

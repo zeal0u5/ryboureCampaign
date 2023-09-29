@@ -1,0 +1,9 @@
+- smells like mothballs and books
+- 60ft wooden table with a big slit down the center. next to is is a plethera of peices of wood that fit into the slit
+	- writing is on the wood
+- it is on common language
+- It housed 65 wooden slitted wood peices that needed to be put into the table. 
+- The door opened when all of the wood is put into the table
+- Within the [[Interdimensional Whore's Dungeon]].
+- [[Serinus Alder Catiline of Nephrite]] and [[Nahran Umbra]] helped with history a lot. but nahran figured it out
+- [[Ogan the Flame Shell]], [[Lizee]], and [[Sherrington (Sherry) Farehaven]] helped ish

@@ -1,0 +1,1 @@
+The police/law enforcers of the reigon. They are followers of the Lawbearer, giving the Church a pseudo-direct control over law enforcement.

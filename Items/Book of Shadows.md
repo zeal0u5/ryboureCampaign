@@ -1,0 +1,1 @@
+this is [[Serinus Alder Catiline of Nephrite]]'s book of open communication. Currently [[Ogan the Flame Shell]]'s and [[minus constantine dean of natural studies and natural arcanum]]'s names are in it. 

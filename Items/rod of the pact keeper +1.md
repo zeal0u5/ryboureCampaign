@@ -1,0 +1,1 @@
+plus bonus to save dc and spell. regain one spell slot. [[Serinus Alder Catiline of Nephrite]] has attuned to it

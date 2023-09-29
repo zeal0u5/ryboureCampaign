@@ -1,0 +1,2 @@
+This housed the [[cube of jelly]]. Once entering [[Serinus Alder Catiline of Nephrite]], [[Lizee]], [[Ogan the Flame Shell]], [[Sherrington (Sherry) Farehaven]], and [[Nahran Umbra]] all saw visions of their history and past life. The room's smell: smell sufurous damp stone room with a thin layer of dirt and dark soot. Small room
+Housed within the [[Interdimensional Whore's Dungeon]]. 

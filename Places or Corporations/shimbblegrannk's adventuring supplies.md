@@ -1,0 +1,1 @@
+This is a supermarket for adventuring supplies. [[Lizee]] went here after the [[adventuring guild]] in order to buy bombs for the [[Raccoons]]. 

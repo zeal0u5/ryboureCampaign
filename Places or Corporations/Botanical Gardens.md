@@ -1,0 +1,1 @@
+The botanical Gardens is where [[Nahran Umbra]] and [[Mythdran Cauldic]] had a date in [[Session 16]]. It is housed within the [[Gilded Strip]] within the city of [[Ryboure]]. 

@@ -1,0 +1,1 @@
+Without an official temple or assembly representatives, those who follow Avandra choose to keep their faith more personal. Representing those who wish to live freely, put their lives in the balance of chance, or who just believe in the luck brought by the Changebringer, many who follow Avandra live unpredictable lives.

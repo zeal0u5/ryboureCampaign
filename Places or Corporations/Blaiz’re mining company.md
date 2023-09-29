@@ -1,0 +1,1 @@
+This is a mining company in [[the depths]]. They had to stop mining because of a monster problem that they are hiring people to fix. People are guarding the door that has some sort of enchantment on it. 

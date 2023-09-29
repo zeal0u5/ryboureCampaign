@@ -1,0 +1,1 @@
+This is where the [[conservatorium arcanum]], [[conservatorium arcanum library]], [[conservatorium arcanum mail room]], [[conservatorium arcanum Green House]] is and where the military training is held. Very much a serious learning environment and many different types of people roam here. It also hold many governemtn buildigns and officials.

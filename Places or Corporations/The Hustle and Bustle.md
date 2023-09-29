@@ -1,0 +1,2 @@
+The Hustle and Bustle is a bar in [[traskbar]]. Here, in [[Session 16]], [[Lizee]], [[Ogan the Flame Shell]], [[Sherrington (Sherry) Farehaven]], [[Serinus Alder Catiline of Nephrite]], and [[Nahran Umbra]] meet [[Elsmore]] who works for the [[Church of Erathis]]. He tells us that someone or something is making the people of [[Ryboure]] sick before the [[Kyre]] moon festival that is held by the church. 
+This bar is in the blue-collar part of town. a lot of people are relaxing, people here are like laborers, lots of different drinks. 

@@ -1,0 +1,1 @@
+Has a mini great sword on his back, a small bow, wears a mini matching cloak identical to [[Lizee]].

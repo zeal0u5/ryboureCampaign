@@ -1,0 +1,1 @@
+[[Mythdran Cauldic]] sent a letter to [[Nahran Umbra]], in this letter he talked about [[prof lillia vreth]] studying a magical form of wolfsbane. He enclosed a sample of it. bred to have the same effects on spectral canines

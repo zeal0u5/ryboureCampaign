@@ -1,0 +1,3 @@
+STATUS: ALIVE
+
+Grimsk is almost killed by a large lion like beast with leathery wings in [[the sludge pits]] in [[the gloom marsh]]. They fight with [[ceelia daughter of the wilds]] who got shot in the leg. We save them and take them to the old tower where [[arndor goldenvow]] says there are witches to sleep there for the night. they were hunting the beast and tracked it to here and injured its wing and then it ambushed them. they are very injured and a little stuck.

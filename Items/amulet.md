@@ -1,0 +1,1 @@
+ resistance to the poion and the poison condition. Attunement required. [[Lizee]] has this.
