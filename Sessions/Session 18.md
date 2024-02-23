@@ -44,7 +44,7 @@ Morning of 18th Dra'in
 - lizee: tackles through sherry then attacks dapper man and does 30 dapper man
 - nahran: i heal ogan and go into the other room
 - ogan: scorching ray for 17 damage on dapper guy, wildfire spirit: 9 damage
-- hamburger appears: attacks the wildfire spirit misses
+- [[hamburger]] appears: attacks the wildfire spirit misses
 - armor: ogan makes a con save and wins
 - dapper: hits twice with sword: miss, then hits. 18 damage, misses
 - hairy: sherry takes 24 slashing damage then stands up

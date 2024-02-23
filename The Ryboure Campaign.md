@@ -42,7 +42,7 @@
 -   Aiun - Seers
 
 ## Calendar
-### Today is the Lonin 11, 1120.
+### Today is the Dra'in 18, 1120.
 
 ![[RyboureCalendar.jpg | 500]]
 * All of the months are named after gods

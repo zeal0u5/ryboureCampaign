@@ -1,0 +1,1 @@
+We find this goblet in the alchemy room of the [[small person]]. goblet of luquid fortune. when a potion is in there the stuff is maximized and the duration is doubled. In [[Session 18]].

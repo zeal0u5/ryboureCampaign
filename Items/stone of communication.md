@@ -1,0 +1,1 @@
+This item is from [[Elsmore]]. It to check up with him. place it on the ground say the command word. emergencies. command word is relouthe. We got it in [[Session 18]].
