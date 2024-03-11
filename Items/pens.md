@@ -1,0 +1,1 @@
+These are the pens [[Nahran Umbra]] bought at the [[full moon festival of kyre]]. He gave one to [[Mythdran Cauldic]] <3 so that they can write letters to each other with secret ink. They are magically enchanted pens that write invisible then turn visible when hit with the pen set. 

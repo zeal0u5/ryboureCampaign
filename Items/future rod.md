@@ -1,0 +1,1 @@
+[[Sherrington (Sherry) Farehaven]] bought this rod for 20 gold at the [[full moon festival of kyre]]. It theoretically you pull it apart a small bubble apears and you can see the future.

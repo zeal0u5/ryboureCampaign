@@ -1,0 +1,3 @@
+STATUS: ALIVE
+
+(any) This is a wizard artificer multiclass changling with hair space buns, that fought the adventuring group [[NOSS]] fought at the [[full moon festival of kyre]]. The Adventuring group consists of [[Laci]], [[Strovan Pullarm]], [[Prow Vestament]], [[temperence solidwing]], [[Larakos Managorger]]. figure stark white skin with red eyes smaller stature, poofy hair, scarf and goggles. Larakos talked with [[Sherrington (Sherry) Farehaven]] a lot about artificer stuff and with [[Nahran Umbra]] about the [[barnabey]] acid at the [[the gruzzled gullet]].

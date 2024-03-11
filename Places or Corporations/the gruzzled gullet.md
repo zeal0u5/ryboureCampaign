@@ -1,0 +1,3 @@
+This is the bar [[NOSS]], [[Nahran Umbra]], [[Mythdran Cauldic]], [[Serinus Alder Catiline of Nephrite]], [[Ogan the Flame Shell]], [[Sherrington (Sherry) Farehaven]], [[Morana Vosnesensky]], [[Laci]], [[Prow Vestament]], [[Strovan Pullarm]], [[Larakos Managorger]], and [[temperence solidwing]] went to after the fighting tournament at the [[full moon festival of kyre]]. 
+
+At the gruzzled gullet, Laci stole a crystalized battery from Sherry after they fucked.

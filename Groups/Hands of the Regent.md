@@ -1,1 +1,1 @@
-The police/law enforcers of the reigon. They are followers of the Lawbearer, giving the Church a pseudo-direct control over law enforcement.
+The police/law enforcers of the reigon. They are followers of the Lawbearer, giving the Church a pseudo-direct control over law enforcement. The [[full moon festival of kyre]] tournament is fun by them. They do not like [[Ogan the Flame Shell]] at all.

@@ -1,6 +1,6 @@
 ## Next Actions
-- [ ] Festival 
 - [ ] [[dapper]] man tracking?
+- [ ] Go to [[traskbar]] for a job from the [[full moon festival of kyre]]
 
 ## Waiting For
 - [ ] [[Ritsko]] to use the machine she gave us to call us for help.
@@ -11,6 +11,7 @@
 
 ## Completed
 - [x] Find and return the package to [[Pernalious]]. 
+- [x] Festival 
 - [x] Get [[jean]] a job for the liquor "store"
 - [x]  Meet with the [[underground poison man]].
 - [x] Get out of the [[omonous cozy room with darkness]].

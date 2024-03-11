@@ -5,7 +5,9 @@
 - [ ] Figure out an help [[Luzo]] defeat/discover who is chasing him.
 	- [ ] How do the [[Crims]] fit into this?
 - [ ] How are we going to get rid of the [[ruby]]
+- [ ] where tf is [[dapper]]?
 - [ ] What is the [[yellow gilded book]] and why is it affecting [[Serinus Alder Catiline of Nephrite]] so much?
+- [ ] Go to [[traskbar]] for a quest from the [[full moon festival of kyre]]
 - [ ] Find [[dapper]]
 - [ ] Go to festival
 - [x] Who is the [[mountain motherfucker]]?

@@ -1,0 +1,3 @@
+STATUS: ALIVE
+
+(he/him) This is a barbarian humanoid russian man that fought the adventuring group [[NOSS]] fought at the [[full moon festival of kyre]]. The Adventuring group consists of [[Laci]], [[Strovan Pullarm]], [[Prow Vestament]], [[temperence solidwing]], [[Larakos Managorger]]. He is so russian, 7ft tall, and wants to drink a lot. Talked to [[Serinus Alder Catiline of Nephrite]] at the [[the gruzzled gullet]].

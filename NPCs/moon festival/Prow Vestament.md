@@ -1,0 +1,3 @@
+STATUS: ALIVE
+
+(she/eh) This is a rogue smaller dressed in all black cloak: humanoid around 14, long dark hair, that fought the adventuring group [[NOSS]] fought at the [[full moon festival of kyre]]. The Adventuring group consists of [[Laci]], [[Strovan Pullarm]], [[Prow Vestament]], [[temperence solidwing]], [[Larakos Managorger]]. She is a grumpy teenager that has never been treated well and has a really fucked up past. "we talk a little everywhere with exposed skin is intriqate tattoos, they dont look like they were done with care". She talked to [[Nahran Umbra]] at the [[the gruzzled gullet]] after the fight. She knows about gith stuff. 
