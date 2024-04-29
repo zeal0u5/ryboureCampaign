@@ -1,4 +1,4 @@
-Traversed into [[the depths]] in order to find ingredients for [[archie]] and took a contract for the blazerei mining company. After fleeing green goo, we saw a hole in the wall with a massive cavern and stream as we were contemplating a small dragon with golden light stopped behind Sherry. Chasing after it is a cloaked figure 40 feet away. Standoff moment. 
+Traversed into [[the depths]] in order to find ingredients for [[Archie]] and took a contract for the blazerei mining company. After fleeing green goo, we saw a hole in the wall with a massive cavern and stream as we were contemplating a small dragon with golden light stopped behind Sherry. Chasing after it is a cloaked figure 40 feet away. Standoff moment. 
 
 -   The drake has its back to us.
 -   The drake is a youve never seen this thing before, there are dragons that are kin to the species. 

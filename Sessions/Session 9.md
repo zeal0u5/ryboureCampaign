@@ -112,7 +112,7 @@ We talk to [[Archie]] and go to [[Archies Alchemy Depo]] and try to meet with [[
 
 I go to [[Lathanders Light Monestary]] to check for letters or things there for me, nothing.
 
-Go back to [[archie]]'s, hooded figure nods and nods to the side and walks into the alley. We go into the [[The Sewers]]. He goes 10 ft down and dancing lights. Humanoid. 
+Go back to [[Archie]]'s, hooded figure nods and nods to the side and walks into the alley. We go into the [[The Sewers]]. He goes 10 ft down and dancing lights. Humanoid. 
 
 Ogan gives the [[corruption or poison from Luzo]] and he does not want to be caught up
 Certain powerful people in the city will create their own kind of brews and it depends on what you want to do but this is not something youb can just buy, this is a small batch of a specific purpose. I suggest you forget anything that happened with this. Shit runs deep. People who look under the hood often they'll tend to disappear. Probably half of what was made. You want my guess probably [[Crims]] whatever you are fucking with you are dealing with people with money and people who wanted someone dead. 

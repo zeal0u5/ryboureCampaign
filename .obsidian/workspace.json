@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "b2cac5c439d1bdf3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8be926e6ac7f4622",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed606ea46892dafd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5bda64aff784c811",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd7efd6cb5db2d1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2abcc42528dc60d6",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "7c81773c257d7591",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "64f8adebcefd16d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "668850f31cbbd4fe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 231.5
+  },
+  "right": {
+    "id": "a2034bf1907b0255",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8ab055f17268c03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab0dd525c77e39bb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "ea2a2ea747130b76",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5312b8164359436b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "06277ea4a35532c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "df7e7844f967cd62",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4f17d53f3fb9ff73",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 425.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
+    }
+  },
+  "active": "ed606ea46892dafd",
+  "lastOpenFiles": [
+    "Sessions/Session 20.md",
+    "Places or Corporations/traskbar.md",
+    "Places or Corporations/kenrith mining company.md",
+    "NPCs/marty haversham.md",
+    "kenreth mines/pietro trainee.md",
+    "kenreth mines/greep.md",
+    "kenreth mines/marbles.md",
+    "kenreth mines",
+    "kenreth mines/luna.md",
+    "Photos/urdlenpic.png",
+    "Groups/Religion/urdlen.md",
+    "Items/mauy boran.md",
+    "Items/amulet.md",
+    "Sessions/Session 15.md",
+    "Sessions/Session 19.md",
+    "Places or Corporations/Whore Dungeon/Cube of Jelly Room.md",
+    "Items/gilded orb, edh.md",
+    "Items/polished black stone orb.md",
+    "Items/stone of communication.md",
+    "NPCs/Wizard Session 1.md",
+    "Items/Plants/Wolfsbane.md",
+    "Places or Corporations/Blaiz’re mining company.md",
+    "NPCs/romance",
+    "Players/Morana Vosnesensky.md",
+    "Players/Sherrington (Sherry) Farehaven.md",
+    "Players/Nahran Umbra.md",
+    "Players/Serinus Alder Catiline of Nephrite.md",
+    "Players/Ogan the Flame Shell.md",
+    "NPCs/moon festival",
+    "Photos/ZNahran.png",
+    "NPCs/Curio Stand",
+    "NPCs/consortium arcanum/marcine plot",
+    "NPCs/consortium arcanum",
+    "Players/Raccoons",
+    "Places or Corporations/Whore Dungeon",
+    "Places or Corporations/City Topography",
+    "Places or Corporations/campus",
+    "Items/RyboureCalendar.jpg"
+  ]
+}

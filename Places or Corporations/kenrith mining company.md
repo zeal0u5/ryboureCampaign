@@ -1,0 +1,2 @@
+
+This is a mining corporation of [[the depths]]. It is one of the largest mining companies within [[Ryboure]]. It is mainly family run through nepotism. [[Ogan the Flame Shell]], [[Nahran Umbra]], [[Morana Vosnesensky]], [[Sherrington (Sherry) Farehaven]], [[Serinus Alder Catiline of Nephrite]] were hired after the [[full moon festival of kyre]] after winning as [[NOSS]]. They were hired in [[traskbar]] after being talked to at [[the gruzzled gullet]]. We started the job in [[Session 20]]. 

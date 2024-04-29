@@ -116,7 +116,7 @@ Distribution:
 
 We take the crates back and we get back to the [[Archie]][[Archies Alchemy Depo]] 
 
-Push them up the stairs and tell [[archie]] that derrick is free and crazy magic dude that teleported
+Push them up the stairs and tell [[Archie]] that derrick is free and crazy magic dude that teleported
 
 He gives up asking questions
 

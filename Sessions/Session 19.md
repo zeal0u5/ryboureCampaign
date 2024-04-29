@@ -253,7 +253,7 @@ Meet in front of bar:
 	- i go back to prow and stay quiet and we talk a little everywhere with exposed skin is intriqate tattoos, they dont look like they were done with care
 		- they know about the astral plane
 	- i go back to the table and then there is a hlafling there with leathers and nice clothes, head is fully bald and there is different marking of some tribal sort
-		- he goes "ah good, the 5 of you showed impressive skill, caught the eye of my employer, the 5 of you will have 1 day to report to them and then spides it on the table and he walks away"
+		- he goes "ah good, the 5 of you showed impressive skill, caught the eye of my employer, the 5 of you will have 1 day to report to them" and then slides it on the table and he walks away
 		- address: in the [[traskbar]] district a lot of mining and warehouses there
 	- sherry gets a tap on the shoulder
 		- ogan and sherry are pretty fucked
