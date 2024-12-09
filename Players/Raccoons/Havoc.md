@@ -1,1 +1,1 @@
-Has bandoliers full off smoke bombs, and firecracker like devices, and a tinder box. [[Lizee]]
+Has bandoliers full off smoke bombs, and firecracker like devices, and a tinder box. [[Lizee (in jail)]]

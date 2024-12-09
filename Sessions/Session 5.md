@@ -19,7 +19,7 @@ I check to see if I have a letter back twice in that week (in the [[Lathanders L
 	-   Includes a mailing address
 	-   [[Nahran Umbra]] SEND A [[Letter 2 to Myth]]
 
- [[Lizee]] and ogan go to archies
+ [[Lizee (in jail)]] and ogan go to archies
 -   [[Armageddon]] tries to steal stuff, and archies bonks him with a vile
 -   Turns into horse
 -   Flaunts around town

@@ -2,7 +2,7 @@ If we want to get to [[VANGUARD]] ([[conservatorium arcanum]]) it would take us 
 It is still the 11th of Lonin.
 We walk over to find an inn.
 The closest inn (where we are staying)  would be in [[Gilded Strip]]. 
-[[Ogan the Flame Shell]] is going to turn into a spider, [[Lizee]] is going to see and hear as the spider and go potato. [[Serinus Alder Catiline of Nephrite]] will be using the [[Book of Shadows]] to communicate. [[Nahran Umbra]] goes to the inn. [[Sherrington (Sherry) Farehaven]] will give temp hp to ogan.
+[[Ogan the Flame Shell]] is going to turn into a spider, [[Lizee (in jail)]] is going to see and hear as the spider and go potato. [[Serinus Alder Catiline of Nephrite]] will be using the [[Book of Shadows]] to communicate. [[Nahran Umbra]] goes to the inn. [[Sherrington (Sherry) Farehaven]] will give temp hp to ogan.
 
 ### Hotel
 In the room: one bed, nice curtains, someone excorts us to the room. 
@@ -130,7 +130,7 @@ Tries to get every inch of the building with detect magic:
 - he goes back home it takes 20 minutes to get all the way back
 
 ### Back to the Hotel
-ogan and i take the floor, lizee, [[Raccoons]] and sherry take the bed, serin on the bed
+ogan and i take the floor, lizee, [[Raccoons (in jail)]] and sherry take the bed, serin on the bed
 
 its gloomy/rainy outside on the 12th of Lonin
 

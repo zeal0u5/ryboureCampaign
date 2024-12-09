@@ -6,4 +6,4 @@
 - The door opened when all of the wood is put into the table
 - Within the [[Interdimensional Whore's Dungeon]].
 - [[Serinus Alder Catiline of Nephrite]] and [[Nahran Umbra]] helped with history a lot. but nahran figured it out
-- [[Ogan the Flame Shell]], [[Lizee]], and [[Sherrington (Sherry) Farehaven]] helped ish
+- [[Ogan the Flame Shell]], [[Lizee (in jail)]], and [[Sherrington (Sherry) Farehaven]] helped ish

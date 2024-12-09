@@ -1,6 +1,6 @@
 STATUS: ALIVE
 
-Homeless amn that lives near [[Archies Alchemy Depo]]. Seen in [[Session 8]]. He is met when [[Sherrington (Sherry) Farehaven]] is checking up on [[Nahran Umbra]] and he ain't doing good. He comments. [[Lizee]] and [[Ogan the Flame Shell]] pull up and try to get him to but alcohol, then also sell alcohol. [[Serinus Alder Catiline of Nephrite]] then takes the group to [[community hall]] to get a liqour license. 
+Homeless amn that lives near [[Archies Alchemy Depo]]. Seen in [[Session 8]]. He is met when [[Sherrington (Sherry) Farehaven]] is checking up on [[Nahran Umbra]] and he ain't doing good. He comments. [[Lizee (in jail)]] and [[Ogan the Flame Shell]] pull up and try to get him to but alcohol, then also sell alcohol. [[Serinus Alder Catiline of Nephrite]] then takes the group to [[community hall]] to get a liqour license. 
 
 Came from a smaller town called [[belrith]], 2 weeks south west of here, not the closest town, but a notable one. Grew up in the city his father was a painter, never knew his mother. He wants to join the [[Painter's guild]] but cannot get in. Ogan offers to make pigment from the forrest for him.
 

@@ -1,4 +1,4 @@
-After fighting [[figure with sigil from session 2]] the [[Ogan the Flame Shell]] noticed a mark on the back of his neck, [[Nahran Umbra]], [[Lizee]], and [[Serinus Alder Catiline of Nephrite]]. [[Session 2]]
+After fighting [[figure with sigil from session 2]] the [[Ogan the Flame Shell]] noticed a mark on the back of his neck, [[Nahran Umbra]], [[Lizee (in jail)]], and [[Serinus Alder Catiline of Nephrite]]. [[Session 2]]
 
 Before fighting [[clarity creepy figure session 6]] [[Nahran Umbra]] felt a burning sensation on the back of his neck and noticed the figure before the fight. 
 After the fight the symbol was gone from his neck. [[Session 6]]

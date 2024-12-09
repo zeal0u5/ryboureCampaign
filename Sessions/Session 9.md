@@ -41,7 +41,7 @@ As we get close:
 	* The orb [[polished black stone orb]], is magical divination
 	* the huge ping of magic from conjuration magic under one of the carts [[ruby]]
 * The costumes seem like stage clothes
-* [[Chongles]] is having a battle with a garment, [[Lizee]] knifes the garment off, takes and hangs it back up and notice
+* [[Chongles]] is having a battle with a garment, [[Lizee (in jail)]] knifes the garment off, takes and hangs it back up and notice
 * [[Ogan the Flame Shell]] checks the cart and its under a wheel, seems to be run over
 * he molds earth to try to get it out, glimmer, [[ricky]] comes over, shows him what is there, dusty ruby is it for sale walks to Anthalora looks legit and cut, no physical marking of runes
 * [[Serinus Alder Catiline of Nephrite]] buys both the ruby and the orb with platnum
@@ -58,7 +58,7 @@ We go on our way the night draws closer
 Long rest with watches
 * I go first and it is pretty uneventful I use the [[cracked driftglobe]] to see winds are whistling
 * Ogan is second and the orb can predict with 90% accuracy if the person will have all of their limbs at the same time the next day
-* [[Lizee]] is third sends [[Raccoons]] out as well she feels like she is being watched, can't name it but its more of a tenatively unsettling
+* [[Lizee (in jail)]] is third sends [[Raccoons (in jail)]] out as well she feels like she is being watched, can't name it but its more of a tenatively unsettling
 	* She shoots a flaming arrow at the path to try to see something and it arcs and then disappears
 	* Nothing has shifted or changed since the lights
 * [[Sherrington (Sherry) Farehaven]] is fourth and the wind's whistling

@@ -2,7 +2,7 @@ STATUS: ALIVE
 
 First mentioned in [[Session 5]]. She allegedly stole a prototype from [[orênge]]. The group was told to get that back. The task was started in [[Session 6]].
 
-When trying to get into [[Ritsko workshop]] we tried to trick her to let us in. When that failed [[Lizee]] broke down the door and [[Ogan the Flame Shell]] teleported us in. 
+When trying to get into [[Ritsko workshop]] we tried to trick her to let us in. When that failed [[Lizee (in jail)]] broke down the door and [[Ogan the Flame Shell]] teleported us in. 
 
 She locked most of us in metal binding and threatened to kill us for being idiots. Then she realized we were hired by orange and she gave us the old prototype since she had made an improved one. 
 

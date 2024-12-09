@@ -1,12 +1,14 @@
 
 ## Player Characters
 -   [[Nahran Umbra]]
--   [[Lizee]]
-	-   [[Raccoons]]
 -   [[Serinus Alder Catiline of Nephrite]]
 -   [[Ogan the Flame Shell]]
 -   [[Sherrington (Sherry) Farehaven]]
+- [[Morana Vosnesensky]]
 
+### Past Characters
+-   [[Lizee (in jail)]]
+	-   [[Raccoons (in jail)]]
 ## [[Quests and Questions]]
 
 ## [[Agenda]]
@@ -28,6 +30,12 @@
 - [[Session 14]]
 - [[Session 15]]
 - [[Session 16]]
+- [[Session 17]]
+- [[Session 18]]
+- [[Session 19]]
+- [[Session 20]]
+- [[Session 21]]
+- [[Session 22]]
 
 ## Politics
 -  [[The Assembly]]
@@ -42,7 +50,7 @@
 -   Aiun - Seers
 
 ## Calendar
-### Today is the Dra'in 18, 1120.
+### Today is the Dra'in 21st, 1120.
 
 ![[RyboureCalendar.jpg | 500]]
 * All of the months are named after gods

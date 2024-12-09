@@ -1,1 +1,1 @@
-Mini hurdy gurdy from the [[Mooncrest traveling Curio stand and entertainment venue]] sold by [[lil' ricky]] to [[Chongles]] and [[Lizee]] for 7gp.
+Mini hurdy gurdy from the [[Mooncrest traveling Curio stand and entertainment venue]] sold by [[lil' ricky]] to [[Chongles]] and [[Lizee (in jail)]] for 7gp.

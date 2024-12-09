@@ -22,5 +22,5 @@
 ![[ZNahran.png | 433]]
 [[Ogan and Lizee's Home]], [[Lathanders Light Monestary]], [[conservatorium arcanum]], [[Archies Alchemy Depo]], [[Miechael’s]], [[Bosar Fokhad]], [[Ingrid Muvornur]], [[New Mentee, no name]], [[Ryo Enlana]], [[Theoden Keatris]], [[Vrah]], [[Mythdran Cauldic]], [[prof lillia vreth]], [[Letter 2 to Myth]], [[Letter 1 from Myth]], [[Dirty Silver Medalion]], [[Azalea]], [[Black Nightshade]], [[Butterfly Bush]], [[ephedra]], [[Great Yellow Gentian]], [[Monkshood]], [[Oleander]], [[Pennyroyal]], [[Purple-gilled Laccaria]], [[Purpleleaf Sand Cherry]], [[Silver Inch Plant]], [[Wolfsbane]], [[voice inside my head]], [[kessigs expance]], [[Erathis’ Band]],
 
-[[Serinus Alder Catiline of Nephrite]], [[Lizee]], [[Raccoons]], [[Calamity]], [[Havoc]], [[Chongles]], [[Armageddon]], [[Devastation]]. [[Ogan the Flame Shell]], [[Sherrington (Sherry) Farehaven]]
+[[Serinus Alder Catiline of Nephrite]], [[Lizee (in jail)]], [[Raccoons (in jail)]], [[Calamity]], [[Havoc]], [[Chongles]], [[Armageddon]], [[Devastation]]. [[Ogan the Flame Shell]], [[Sherrington (Sherry) Farehaven]]
 [[minus constantine dean of natural studies and natural arcanum]], [[voice inside my head]], [[437 south rutherford lane]], [[barnabey]], [[Prow Vestament]], [[Morana Vosnesensky]]

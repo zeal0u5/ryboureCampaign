@@ -2,7 +2,7 @@ STATUS: ALIVE
 
 From [[Session 2]].
 
-After fighting [[Derick]], [[miranda]], [[brad]], 2 more guards, a giant spider, and meeting [[Wizard Session 1]], we enter a room after [[Lizee]], [[Ogan the Flame Shell]], and [[Serinus Alder Catiline of Nephrite]] break the door down
+After fighting [[Derick]], [[miranda]], [[brad]], 2 more guards, a giant spider, and meeting [[Wizard Session 1]], we enter a room after [[Lizee (in jail)]], [[Ogan the Flame Shell]], and [[Serinus Alder Catiline of Nephrite]] break the door down
 
 covered head to toe in armor completely obscured, kneeled down, with large sigil on floor chanting magic spell higher than anything he has done
 

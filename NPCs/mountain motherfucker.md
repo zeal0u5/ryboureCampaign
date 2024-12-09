@@ -8,7 +8,7 @@ Stops at the top of the hill as it sees us 80-90 ft up sliding down is a figure 
 the deer headbutts and the elven figure touches the stone and a rock jolts out and goes into the deers head el oh el
 "i am a protector [spirit] of this land" elven woman in tunic with leather bracers with dark grey/green cloak under
 "if you seek to harm these lands you will meet a similar fate"
-She gave the burned arrow back to [[Lizee]]
+She gave the burned arrow back to [[Lizee (in jail)]]
 [[Nahran Umbra]] bow and she bows foreign but respectfully "i would stop now if i were you" 
 the beast falls off in front of you
 She might be a thing that look humanoid that protects (<mark style="background: #FFB8EBA6;">nymph or fey</mark>)

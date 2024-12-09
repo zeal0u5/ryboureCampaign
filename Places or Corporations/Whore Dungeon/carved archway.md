@@ -2,7 +2,7 @@ First appears in the [[]] mountains that were authorized by the [[kessigs expanc
 
 When passing it on the way back We hear a loud pop and the stone is completely flush. It disappears.
 
-After talking to [[underground poison man]] in [[The Sewers]] there was a sound that [[Serinus Alder Catiline of Nephrite]] [[Nahran Umbra]] heard and they ignored it. [[Lizee]] stealth to check to see what's happening with the orb i gave him. Lizee stays close to the wall and something shifts. As she looks to the side a curved indent in the stone like an arch. 
+After talking to [[underground poison man]] in [[The Sewers]] there was a sound that [[Serinus Alder Catiline of Nephrite]] [[Nahran Umbra]] heard and they ignored it. [[Lizee (in jail)]] stealth to check to see what's happening with the orb i gave him. Lizee stays close to the wall and something shifts. As she looks to the side a curved indent in the stone like an arch. 
 
 Lizee pushes it and hears a grinding, and it slides itself in and is in pitch darkness.She feels a pull in the arch. And tries to hold on. with just the fingertips outside the door. [[Ogan the Flame Shell]] fully is sucked into the door. 
 

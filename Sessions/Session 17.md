@@ -1,4 +1,4 @@
-[[Raccoons]] [[Armageddon]], [[Devastation]], [[Chongles]], [[Havoc]], [[Calamity]].
+[[Raccoons (in jail)]] [[Armageddon]], [[Devastation]], [[Chongles]], [[Havoc]], [[Calamity]].
 
 17th of Dra'in (afternoon)
 We have left the [[Church of Erathis]]. 
@@ -6,7 +6,7 @@ We have left the [[Church of Erathis]].
 I go to [[Archies Alchemy Depo]] to give [[Archie]] the vials of water to try to identify the poison in the water. 
 Stake out the well in front of the [[blanch family]] house. In the cobble roads. Most buildings are 3 stories high. 
 - [[Ogan the Flame Shell]] knocks on the old lady's door to try to stay at her house.
-	- [[Lizee]] cones later to ask about the roof and there are stairs up
+	- [[Lizee (in jail)]] cones later to ask about the roof and there are stairs up
 	- [[Sherrington (Sherry) Farehaven]] picks the lock to get up the stairs
 	- there is a window at the top of the stairway
 	- [[Nahran Umbra]] climbs up the building and makes it to the roof

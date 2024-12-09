@@ -1,4 +1,4 @@
-This is in [[VANGUARD]] on the [[conservatorium arcanum]] campus. This is where [[Ex-Headmaster Arch Mage Marcine]]'s office, personal library, and personal study are. We need to break in/scope the place out in order to get proof that she is connected to the [[magical red symbol]], hemomancy, and trying to kill us. Our plan: [[Ogan the Flame Shell]] shifts into a spider, [[Lizee]] watches the bodycam footage and we make a blueprint of the place in order to get proof. 
+This is in [[VANGUARD]] on the [[conservatorium arcanum]] campus. This is where [[Ex-Headmaster Arch Mage Marcine]]'s office, personal library, and personal study are. We need to break in/scope the place out in order to get proof that she is connected to the [[magical red symbol]], hemomancy, and trying to kill us. Our plan: [[Ogan the Flame Shell]] shifts into a spider, [[Lizee (in jail)]] watches the bodycam footage and we make a blueprint of the place in order to get proof. 
 
 In [[Session 12]] Ogan explores and then we all go in to get proof of blood magic against [[Ex-Headmaster Arch Mage Marcine]]. 
 OUTSIDE:

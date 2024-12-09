@@ -101,7 +101,7 @@ INITIATIVE:
 -   [[Nahran Umbra]] get my astral arms, do jack shit damage
 -   Bloodman: attack ogan, 10 necrotic damage, drop concentration, make attack against serin, misses
 -   [[Sherrington (Sherry) Farehaven]]: uses the temp bunny health thing, 16 hits, 10 fire damage?, gurgling sound, 
--   [[Lizee]]: hunters mark, then hit with a 14, 19 damage?
+-   [[Lizee (in jail)]]: hunters mark, then hit with a 14, 19 damage?
 -   [[Serinus Alder Catiline of Nephrite]]: malediction (hex) for strength, eldridge blast, hits 5 force, 5 necrotic
 -   Ogan: flaming sword: hits 10 fire damage
 -   I yell to check neck, 3 force and hit again 3 force damage

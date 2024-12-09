@@ -49,7 +49,7 @@ Serin is buying food for everyone, 4 small bowls of something
 	- This is when charlie notices me
 		- follows at a distance
 - I rejoin the group
-- [[Lizee]] has gone off to find mead
+- [[Lizee (in jail)]] has gone off to find mead
 - Sherry is looking for silly tools, trickets, and vegitation
 	- sherry gets a [[future rod]]
 		- can see the future with it 

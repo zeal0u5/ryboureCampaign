@@ -1,1 +1,1 @@
-has a bandolier full of knives, and various heavily modified arrow heads. wears leather bracers. [[Lizee]]
+has a bandolier full of knives, and various heavily modified arrow heads. wears leather bracers. [[Lizee (in jail)]]

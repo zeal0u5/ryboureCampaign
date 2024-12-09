@@ -1,4 +1,4 @@
-[[omonous cozy room with darkness]] from the [[carved archway]] in the [[The Sewers]]. [[Serinus Alder Catiline of Nephrite]], [[Sherrington (Sherry) Farehaven]], [[Ogan the Flame Shell]], [[Nahran Umbra]], [[Lizee]]. 
+[[omonous cozy room with darkness]] from the [[carved archway]] in the [[The Sewers]]. [[Serinus Alder Catiline of Nephrite]], [[Sherrington (Sherry) Farehaven]], [[Ogan the Flame Shell]], [[Nahran Umbra]], [[Lizee (in jail)]]. 
 ## in the [[omonous cozy room with darkness]]
 The door is light stone with brass/metal instylings and especially around the handle. The ceiling is just darkness. 
 

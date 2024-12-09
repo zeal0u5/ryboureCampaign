@@ -1,1 +1,1 @@
-albino raccoon, has a backpack full of coins, an eyepatch, and a gold tooth. As an affinity for raw meat [[Lizee]]
+albino raccoon, has a backpack full of coins, an eyepatch, and a gold tooth. As an affinity for raw meat [[Lizee (in jail)]]

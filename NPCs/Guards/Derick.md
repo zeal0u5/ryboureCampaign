@@ -6,4 +6,4 @@ In [[Session 2]] [[Serinus Alder Catiline of Nephrite]] pretends to be him.
 -   There are 6-7 of them total
 -   Store room boxes are in the room  all the way down, take a right and it is in a wooden room that is always locked
 -   Will not tell us their boss
--   [[Lizee]] cuts the rope and he runs away after peeing himself
+-   [[Lizee (in jail)]] cuts the rope and he runs away after peeing himself

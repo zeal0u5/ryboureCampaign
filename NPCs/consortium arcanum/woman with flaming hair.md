@@ -1,1 +1,1 @@
-This woman was bombarded by the [[Raccoons]] while in the [[conservatorium arcanum library]]. She froze them in the air and [[Lizee]] convinced her to let them go. 
+This woman was bombarded by the [[Raccoons (in jail)]] while in the [[conservatorium arcanum library]]. She froze them in the air and [[Lizee (in jail)]] convinced her to let them go. 

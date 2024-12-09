@@ -1,16 +1,18 @@
 ## Next Actions
 - [ ] [[dapper]] man tracking?
-- [ ] Go to [[traskbar]] for a job from the [[full moon festival of kyre]]
+- [ ] go through the levels of the kenreth mine
+- [ ] try to get something to protect [[Mythdran Cauldic]]
 
 ## Waiting For
 - [ ] [[Ritsko]] to use the machine she gave us to call us for help.
-- [ ] If we are in trouble use [[stone of communication]] to contact [[Elsmore]]
 
 ## Someday/Maybe
 - [ ] Help [[Luzo]] find who and why he is being chased.
 
 ## Completed
 - [x] Find and return the package to [[Pernalious]]. 
+- [x] If we are in trouble use [[stone of communication]] to contact [[Elsmore]]
+- [x] Go to [[traskbar]] for a job from the [[full moon festival of kyre]]
 - [x] Festival 
 - [x] Get [[jean]] a job for the liquor "store"
 - [x]  Meet with the [[underground poison man]].

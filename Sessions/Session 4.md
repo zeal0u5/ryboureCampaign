@@ -13,7 +13,7 @@ Traversed into [[the depths]] in order to find ingredients for [[Archie]] and to
 INITIATIVE:
 -   [[Sherrington (Sherry) Farehaven]] pulls out a mechanical bunny bronze and pink magic. And stands ready
 -   [[Serinus Alder Catiline of Nephrite]] holding eldridge blast
--   [[Lizee]] take out longbow and as soon as the light goes down fire
+-   [[Lizee (in jail)]] take out longbow and as soon as the light goes down fire
 -   [[Nahran Umbra]] move towards the wall of light (5ft away) and dodge
 -   "Now is not the time for bravery"
 -   “Down the cavern”??”?????????
@@ -96,7 +96,7 @@ Heading over to [[Archies Alchemy Depo]]
 -   The windows have gotten replaced
 -   We set everything on the counter
 -   Ask [[Archie]] what the poison is, he doesn't know but he knows it’s dangerous, it is illegal. He may know someone who knows someone a little sketchy
--   [[Raccoons]] trying to hide the jar then the jar breaks onto the floor
+-   [[Raccoons (in jail)]] trying to hide the jar then the jar breaks onto the floor
 -   Serin and nahran trying to clean up the mess
 -   “She’s a something”
     

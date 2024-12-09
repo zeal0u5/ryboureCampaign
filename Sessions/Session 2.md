@@ -18,7 +18,7 @@ Traps:
 -   15 or 20 paces i step on to a stone that depresses
 -   [[Ogan the Flame Shell]] dex saving throw, the rock he is on falls and ogan goes straight down
 -   Ogan is nowhere to be seen when the stone cracks on the bottom of the pit
--   [[Lizee]] goes down the tunnel and pulls a level hear clicks
+-   [[Lizee (in jail)]] goes down the tunnel and pulls a level hear clicks
 -   Undoes the rock and then continue
 -   Carefully going down now (im scanning)
     

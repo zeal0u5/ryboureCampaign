@@ -3,4 +3,4 @@
 "but there is much at hand if this is to be your mark, if you wish for my return to this world and it is true in your heart we shall meet again when you are ready more trial will await to truely gain the knowledge of my expiriance go forth brave ones fulfill your noble deedds but do not forget my hideous face and what could be in this lifetime " 
 "yonder you shall find your exit, our paths shall cross again"
 
-This man made the [[Interdimensional Whore's Dungeon]], trapped [[Serinus Alder Catiline of Nephrite]], [[Nahran Umbra]], [[Lizee]], [[Ogan the Flame Shell]], and [[Sherrington (Sherry) Farehaven]] within it because ogan turned into a "horse" and then we kept summoning (talking about the "horse"). He was also in the [[Whore Head Room]].
+This man made the [[Interdimensional Whore's Dungeon]], trapped [[Serinus Alder Catiline of Nephrite]], [[Nahran Umbra]], [[Lizee (in jail)]], [[Ogan the Flame Shell]], and [[Sherrington (Sherry) Farehaven]] within it because ogan turned into a "horse" and then we kept summoning (talking about the "horse"). He was also in the [[Whore Head Room]].

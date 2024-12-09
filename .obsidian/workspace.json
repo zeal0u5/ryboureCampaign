@@ -8,15 +8,59 @@
         "type": "tabs",
         "children": [
           {
-            "id": "73e384d102ea0acc",
+            "id": "65bffa4903edea39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 21.md",
+                "file": "Sessions/Session 22.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Session 22"
+            }
+          },
+          {
+            "id": "837d939855a48fd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Ryboure Campaign.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Ryboure Campaign"
+            }
+          },
+          {
+            "id": "18c5fe1a971b0bff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quests and Questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Quests and Questions"
+            }
+          },
+          {
+            "id": "1d0ad5ebb5119cc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agenda.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Agenda"
             }
           }
         ]
@@ -37,7 +81,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -47,7 +93,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -62,7 +110,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -70,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ],
@@ -78,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5,
-    "collapsed": true
+    "width": 231.5
   },
   "right": {
     "id": "a2034bf1907b0255",
@@ -95,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Session 21.md",
+                "file": "Sessions/Session 22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +154,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Session 22"
             }
           },
           {
@@ -112,10 +165,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/Session 21.md",
+                "file": "Sessions/Session 22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Session 22"
             }
           },
           {
@@ -126,7 +181,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -135,8 +192,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/Session 21.md"
-              }
+                "file": "Sessions/Session 22.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Session 22"
             }
           },
           {
@@ -144,7 +203,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -156,7 +217,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ]
@@ -178,36 +241,40 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "73e384d102ea0acc",
+  "active": "65bffa4903edea39",
   "lastOpenFiles": [
-    "Items/yellow gilded book.md",
-    "Sessions/Session 20.md",
-    "Players/Nahran Umbra.md",
+    "Quests and Questions.md",
+    "Agenda.md",
+    "The Ryboure Campaign.md",
+    "Sessions/Session 22.md",
+    "Items/Acher Neverrealm pen and inkwell.md",
+    "Groups/kessigs campaign and catalogue objective.md",
+    "Groups/the three legents.md",
+    "Players/Raccoons/Raccoons (in jail).md",
+    "Players/Lizee (in jail).md",
+    "NPCs/poison people/dapper.md",
+    "Items/pens.md",
+    "kenreth mines/SilcoLookAlikeMan3.md",
+    "kenreth mines/GeoHeavyArmorMan1.md",
+    "kenreth mines/BirdCloakMan2.md",
+    "Items/Items from Dungeon Crawl.md",
+    "Items/book of holding.md",
     "Items/mauy boran.md",
-    "Sessions/Session 8.md",
-    "Sessions/Session 7.md",
-    "Sessions/Session 3.md",
-    "Sessions/Session 4.md",
-    "Sessions/Session 5.md",
-    "Sessions/Session 6.md",
-    "Sessions/Session 1.md",
+    "Sessions/Session 20.md",
+    "Photos/SilcoS1E2.png",
+    "Untitled",
     "Sessions/Session 21.md",
-    "Items/Plants/Wolfsbane.md",
-    "Items/Plants/Silver Inch Plant.md",
-    "Items/corruption or poison from Luzo.md",
-    "Items/Book of Shadows.md",
-    "Places or Corporations/traskbar.md",
-    "Places or Corporations/kenrith mining company.md",
-    "NPCs/marty haversham.md",
-    "kenreth mines/pietro trainee.md",
-    "kenreth mines/greep.md",
-    "kenreth mines/marbles.md",
+    "Sessions/Session 19.md",
+    "kenreth mines/kobold artificer.md",
+    "Photos/charactersheetbestguess.pdf",
+    "Players/Nahran Umbra.md",
+    "Items/yellow gilded book.md",
+    "Items/vials of blood.md",
+    "Items/stone of communication.md",
+    "Items/sp'dooner.md",
+    "Items/RyboureCalendar.jpg",
     "kenreth mines",
-    "kenreth mines/luna.md",
     "Photos/urdlenpic.png",
-    "Groups/Religion/urdlen.md",
-    "Items/amulet.md",
-    "Sessions/Session 15.md",
     "NPCs/romance",
     "NPCs/moon festival",
     "Photos/ZNahran.png",
@@ -215,9 +282,6 @@
     "NPCs/consortium arcanum/marcine plot",
     "NPCs/consortium arcanum",
     "Players/Raccoons",
-    "Places or Corporations/Whore Dungeon",
-    "Places or Corporations/City Topography",
-    "Places or Corporations/campus",
-    "Items/RyboureCalendar.jpg"
+    "Places or Corporations/Whore Dungeon"
   ]
 }

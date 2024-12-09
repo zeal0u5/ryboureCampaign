@@ -2,7 +2,7 @@ it is 3 am, 14th of Lonin, light clouds
 We are in the cool mickey mouse club house of expiramentation. ([[personal study and basement]])
 [[exanguinator]] [[Ex-Headmaster Arch Mage Marcine]] knife is identified as a magical dagger - nate will send to me
 As we walk out we see two bright lights pointed directly at us, the owl is still following the directions. [[barnabey]] is still doing what he was told. He flies and lands on [[Ogan the Flame Shell]]. 
-[[Nahran Umbra]], [[Ogan the Flame Shell]], [[Serinus Alder Catiline of Nephrite]], [[Sherrington (Sherry) Farehaven]], [[Lizee]], and [[Raccoons]] go to the inn.
+[[Nahran Umbra]], [[Ogan the Flame Shell]], [[Serinus Alder Catiline of Nephrite]], [[Sherrington (Sherry) Farehaven]], [[Lizee (in jail)]], and [[Raccoons (in jail)]] go to the inn.
 We take a long rest at the inn. 
 I take the murder board down. 
 Someone knocks. : young human teenager and hands us a small pouch and leaves.

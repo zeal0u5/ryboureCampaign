@@ -1,1 +1,1 @@
- resistance to the poion and the poison condition. Attunement required. [[Lizee]] has this.
+ resistance to the poion and the poison condition. Attunement required. [[Lizee (in jail)]] has this.

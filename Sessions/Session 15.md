@@ -1,4 +1,4 @@
-[[Nahran Umbra]], [[Sherrington (Sherry) Farehaven]], [[Lizee]], [[Ogan the Flame Shell]], [[Raccoons]], [[Serinus Alder Catiline of Nephrite]], [[Armageddon]], [[Devastation]], [[Chongles]], [[Havoc]], [[Calamity]].
+[[Nahran Umbra]], [[Sherrington (Sherry) Farehaven]], [[Lizee (in jail)]], [[Ogan the Flame Shell]], [[Raccoons (in jail)]], [[Serinus Alder Catiline of Nephrite]], [[Armageddon]], [[Devastation]], [[Chongles]], [[Havoc]], [[Calamity]].
 
 It is the 22nd of Lonin.
 We wake up in the old tower in [[the sludge pits]] getting ready to go to [[the skittering grotto]]. [[arndor goldenvow]] is there still very asleep.
@@ -13,7 +13,7 @@ There are many different fissures and outcroppings and openings in the rocks. We
 We are looking for an opening larger than us
 There is really only one route to take in these rocks. As we round a sharp turn laying in the middle of the path a large bulbous sickly looking larvae worm thing. Almost disformed in some areas. It doesn't really mean its docile. It just hasn't noticed us yet. 
 
-[[Lizee]] goes up to the larvae. It makes a sickly goop sound as the sword is almost pulled into it. As soon is lizee peirces into it, it explodes into goop and thousands of scorpions. They go everywhere in this general direction. 
+[[Lizee (in jail)]] goes up to the larvae. It makes a sickly goop sound as the sword is almost pulled into it. As soon is lizee peirces into it, it explodes into goop and thousands of scorpions. They go everywhere in this general direction. 
 
 We keep going.
 
@@ -91,7 +91,7 @@ we go after waking him up.
 we get back home the morning of the 24th of Lonin. people are market at [[Archies Alchemy Depo]]. 
 Lizee puts the head in a window. We walk in. [[Archie]]'s knife flies and pins it to the wall. 
 It is being swung and then it is on the front counter. 
-a [[Raccoons]] picks it up and waddles out. 
+a [[Raccoons (in jail)]] picks it up and waddles out. 
 i keep one acid
 he gives us: 150 each
 

@@ -1,4 +1,4 @@
-[[Nahran Umbra]], [[Serinus Alder Catiline of Nephrite]], [[Ogan the Flame Shell]], [[Sherrington (Sherry) Farehaven]], [[Morana Vosnesensky]]
+[[Nahran Umbra]], [[Serinus Alder Catiline of Nephrite]], [[Ogan the Flame Shell]], [[Sherrington (Sherry) Farehaven]], [[Morana Vosnesensky]], [[book of holding]]
 ### from [[Session 19]]
 - `i go back to the table and then there is a hlafling there with leathers and nice clothes, head is fully bald and there is different marking of some tribal sort`
 	- `he goes "ah good, the 5 of you showed impressive skill, caught the eye of my employer, the 5 of you will have 1 day to report to them and then spides it on the table and he walks away"`
@@ -156,7 +156,7 @@ it runs away from us and the hallways has collapsed in of itself
 
 ogan tries to pull out a treat and it bites at ogan's hand, morana goes forward in a calming manner sherry convinces them to come out
 
-their deminor changes for a second and then he tennitively looks up and sits down and pulls out a small object, then places it in front of the rabbit, a small cride looking four legged creature made from clockwork start walking in a circle. He seems to be put at ease
+their deminor changes for a second and then he tennitively looks up and sits down and pulls out a small object, then places it in front of the rabbit, a small crude looking four legged creature made from clockwork start walking in a circle. He seems to be put at ease
 
 a lot of cool traps and crafts in his backpack that he has put together
 in fragmented common he says "who" and points at sherry and motions for then to follow we clear away the rubble, my arms are gone and we can squeeze over
@@ -195,7 +195,7 @@ initiative:
 - ogan: scorching ray hits for 17 then wildfire 8 and then it is almost dead, but actually 12
 - nahran: i kill the bitch and it sprays but is dead
 
-kobold goes and stabs the corpse
+[[kobold artificer]] goes and stabs the corpse
 i collect two vials of it
 
 there are 7 or 8 kobolds that celebrate the death of them we short rest

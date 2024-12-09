@@ -11,7 +11,7 @@ In [[Session 4]] We go then come back to him to deliver the stuff. We also ask a
 
 In [[Session 7]] he sends out the information to the man. [[Nahran Umbra]] buys ingredients to make acid from his store. 
 
-In [[Session 8]] [[Ogan the Flame Shell]] and [[Lizee]] try to sell him medical grade moonshine, he says he knows someone who might buy some, [[The breaker]]. 
+In [[Session 8]] [[Ogan the Flame Shell]] and [[Lizee (in jail)]] try to sell him medical grade moonshine, he says he knows someone who might buy some, [[The breaker]]. 
 [[Serinus Alder Catiline of Nephrite]][[Sherrington (Sherry) Farehaven]]
 
 Archie has given [[Nahran Umbra]] and the others a task of getting some ingredients he needds that are awfully rare, you have to forge for them. in the [[kessigs expance]] it will be south east in the hill area, there are a few caves and burrows and there's a big centaur but if the bottom half was a scorpion (scorpio drider). they are pretty dangerous, but if you get some bits from them. their venom and a few mandables and any other bits and peices. This is in exchange for him talking to the [[underground poison man]].

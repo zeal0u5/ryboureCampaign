@@ -1,1 +1,1 @@
-This is where [[Lizee]] is getting a alcohol selling license. It also has a bulletin board that has not been updated in a while. [[jean]] suggested to go there. 
+This is where [[Lizee (in jail)]] is getting a alcohol selling license. It also has a bulletin board that has not been updated in a while. [[jean]] suggested to go there. 

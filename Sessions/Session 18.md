@@ -1,4 +1,4 @@
-[[Nahran Umbra]], [[Sherrington (Sherry) Farehaven]], [[Lizee]], [[Ogan the Flame Shell]], [[Raccoons]], [[Serinus Alder Catiline of Nephrite]], [[Armageddon]], [[Devastation]], [[Chongles]], [[Havoc]], [[Calamity]].
+[[Nahran Umbra]], [[Sherrington (Sherry) Farehaven]], [[Lizee (in jail)]], [[Ogan the Flame Shell]], [[Raccoons (in jail)]], [[Serinus Alder Catiline of Nephrite]], [[Armageddon]], [[Devastation]], [[Chongles]], [[Havoc]], [[Calamity]].
 
 Morning of 18th Dra'in
 - Head to the building that froze lizee:

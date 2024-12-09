@@ -1,0 +1,1 @@
+This is [[Serinus Alder Catiline of Nephrite]]'s book in which he keeps stuff on each page of the book as if they are illustrations. Generally if we need to keep bounty trophies or things of the sort/heavy things, we will put them in the book. Various [[Items from Dungeon Crawl]] are currently being stored here. 

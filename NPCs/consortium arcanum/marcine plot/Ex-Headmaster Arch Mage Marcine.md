@@ -10,7 +10,7 @@ Next we see her in [[Session 7]] at the [[conservatorium arcanum library]] talki
 As far as I know, i cant get a great read, she seems important, i can tell she is not one to be obvious in her emotions 
 Im not sure if she can be trusted.
 
-In [[Session 11]], she was talked about. [[minus constantine dean of natural studies and natural arcanum]] told nahran, serin, [[Ogan the Flame Shell]], [[Lizee]], and [[Sherrington (Sherry) Farehaven]] about her. We believe that she is the one tracking us and put the [[magical red symbol]]s on our necks. We also believe that [[clarity creepy figure session 6]] and [[amorphous blood monster]] and [[vials of blood]] were all because of her. She wants us dead. The [[figure with sigil from session 2]] could have been her. 
+In [[Session 11]], she was talked about. [[minus constantine dean of natural studies and natural arcanum]] told nahran, serin, [[Ogan the Flame Shell]], [[Lizee (in jail)]], and [[Sherrington (Sherry) Farehaven]] about her. We believe that she is the one tracking us and put the [[magical red symbol]]s on our necks. We also believe that [[clarity creepy figure session 6]] and [[amorphous blood monster]] and [[vials of blood]] were all because of her. She wants us dead. The [[figure with sigil from session 2]] could have been her. 
 
 A few years ago she did an expirament that was not approved and lost a lot of her magical abilities. Before this happened she specialized in <mark style="background: #D2B3FFA6;">living transmutation</mark>. About a year ago she started getting her powers back rapidly. She became the headmaster of [[conservatorium arcanum]] after the previous one disappeared. She is staill performing expiramnets which are legal at best and unethical at worst. 
 

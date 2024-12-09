@@ -1,6 +1,7 @@
-[[Nahran Umbra]], [[Serinus Alder Catiline of Nephrite]], [[Ogan the Flame Shell]], [[Sherrington (Sherry) Farehaven]], [[Morana Vosnesensky]]
+[[Nahran Umbra]], [[Serinus Alder Catiline of Nephrite]], [[Ogan the Flame Shell]], [[Sherrington (Sherry) Farehaven]], [[Morana Vosnesensky]], [[book of holding]]
 41 health
-### from [[Session 20]]
+
+### from [[Session 20]]  21st Dra'in
 
 ### Going to level 4
 - wake up well rested all things considered
@@ -85,7 +86,7 @@ there is one sigil that is different
 
 morana gets to the corner with the triangle thing and the ground feels different in a part, the texture is off and it feels hollow at the same time the sigil lights up it flashes dimly
 
-morana insults nahran's hair, now i am pissed
+morana insults nahran's hair, now i am ***pissed***
 
 the one lighting up is strong with illusion magic
 

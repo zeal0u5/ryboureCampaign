@@ -1,5 +1,5 @@
 ### Starting/intro
-[[Lizee]], [[Nahran Umbra]], [[Raccoons]], [[Calamity]], [[Armageddon]], [[Havoc]], [[Chongles]], [[Devastation]], [[Serinus Alder Catiline of Nephrite]], [[Sherrington (Sherry) Farehaven]], [[Ogan the Flame Shell]]
+[[Lizee (in jail)]], [[Nahran Umbra]], [[Raccoons (in jail)]], [[Calamity]], [[Armageddon]], [[Havoc]], [[Chongles]], [[Devastation]], [[Serinus Alder Catiline of Nephrite]], [[Sherrington (Sherry) Farehaven]], [[Ogan the Flame Shell]]
 
 Exit from the [[Interdimensional Whore's Dungeon]] into [[The Sewers]]. 
 
@@ -9,7 +9,7 @@ We are back into the same alley.
 I go to [[Archies Alchemy Depo]] to get supplies for acid.
 It is the 11th day of lonin in the morning.
 
-I go to [[Lathanders Light Monestary]]. [[Lizee]] and ogan go directly to [[Ogan and Lizee's Home]]. [[Serinus Alder Catiline of Nephrite]] and [[Sherrington (Sherry) Farehaven]] go to their [[Sherry and Serin's Apartment]]. 
+I go to [[Lathanders Light Monestary]]. [[Lizee (in jail)]] and ogan go directly to [[Ogan and Lizee's Home]]. [[Serinus Alder Catiline of Nephrite]] and [[Sherrington (Sherry) Farehaven]] go to their [[Sherry and Serin's Apartment]]. 
 
 ### Lizee and Ogan:
 - batches of alcohol: 81, 80

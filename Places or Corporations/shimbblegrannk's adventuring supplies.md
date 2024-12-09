@@ -1,1 +1,1 @@
-This is a supermarket for adventuring supplies. [[Lizee]] went here after the [[adventuring guild]] in order to buy bombs for the [[Raccoons]]. 
+This is a supermarket for adventuring supplies. [[Lizee (in jail)]] went here after the [[adventuring guild]] in order to buy bombs for the [[Raccoons (in jail)]]. 

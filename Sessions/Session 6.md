@@ -78,7 +78,7 @@ INITIATIVE!!
 -   I use my readied action, more complicated than originally thought, stole and name- grimace I ask them what is happening
 -   Before they can answer, the metal balls hit serin, lizee, and sherry and bind them.
 -   They dont answer my question
--   [[Lizee]]: tries to get it off, fails  
+-   [[Lizee (in jail)]]: tries to get it off, fails  
 -   Ogan: walks to serin and helps serin ready to help
 -   Nahran: hits him with 7 non-lethal damage
 -   Vines is going to use a bonus action to flick their hand and the iron ball ball hit me too (restrained) i get binded, reach into pocket gets vial and the spell dissipates, not restrained

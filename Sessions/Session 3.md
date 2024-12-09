@@ -58,7 +58,7 @@ Starting in [[the depths]]
 Initiative:
 -   [[Sherrington (Sherry) Farehaven]] tries to mace the slug misses
 -   [[Nahran Umbra]] stabs the slug next to him (5 damage) green fluid misses the other slug
--   [[Lizee]] greatsword hits (14 damage) slug favored foe (looking pretty hurt)
+-   [[Lizee (in jail)]] greatsword hits (14 damage) slug favored foe (looking pretty hurt)
 -   [[Ogan the Flame Shell]] burning hands one fails one succeed (8 damage dead)(4 damage)(fire)
 -   The slugs move up wall 
 -   [[Serinus Alder Catiline of Nephrite]] eldridge blast (nat 1) hits the rock

@@ -21,7 +21,7 @@ He was contacted after finding [[Fontar]] and [[Vrekstan'kenn]].
 He then appeared in [[personal study and basement]] in the [[headmaster office]] with two guards who dragged [[Ex-Headmaster Arch Mage Marcine]] out of the room. He says that the stuff we found would be enough. 
 he told us "listen i am in your debt, and i appreciate what youve done putting yourselves at risk and bringing the truth to light, but if she was not the only one involved with the conspiracy, listen the way these things work is that she has been incriminated, if you start revealing names to the authorities, they wont get caught but you are. she has been dealt with and will face a just punishment for what she has done, but bring anymore and i am afraid they will put a target on your back"
 
-he is in debt to [[Nahran Umbra]], [[Lizee]], [[Ogan the Flame Shell]], [[Sherrington (Sherry) Farehaven]], and [[Serinus Alder Catiline of Nephrite]].
+he is in debt to [[Nahran Umbra]], [[Lizee (in jail)]], [[Ogan the Flame Shell]], [[Sherrington (Sherry) Farehaven]], and [[Serinus Alder Catiline of Nephrite]].
 
 his name is no longer in [[Book of Shadows]]
 

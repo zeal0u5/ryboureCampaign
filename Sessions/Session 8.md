@@ -21,7 +21,7 @@ You need a liquor license to sell alcohol, lizee is now going to try to get one 
 
 Arrive at the [[community hall]]. With a bulletin board. Not updated regularly
 
-Human mid 30’s bob hair, at desk in office. They go through the paperwork, [[Lizee]]’s name is canonically LIZEE LIZEE, 2 days
+Human mid 30’s bob hair, at desk in office. They go through the paperwork, [[Lizee (in jail)]]’s name is canonically LIZEE LIZEE, 2 days
 
 Make a stand with trees and have [[jean]] sell stuff. Ogan gives him some pigment from the forest
 

@@ -1,6 +1,6 @@
 STATUS: ALIVE
 
-Met in [[Session 8]] when the group checks out a sketchy job listing that [[Lizee]] pulled off the board. 
+Met in [[Session 8]] when the group checks out a sketchy job listing that [[Lizee (in jail)]] pulled off the board. 
 
 Figure 6 ft tall dark red skin, wearing very lavish purple/red robe. Silk. 2 horns on the side of their head, embellished with jewelry, slippers, notice small cross body leather something. She lives in [[tiffond]] out of place. Her inside of the house is lavish but the outside looks unsuspecting.
 
