@@ -72,7 +72,7 @@
 
 goop covers everyone in range
 
-serin runs to the triangle rocks
+serin runs to the [[triangle rocks]]
 - they are kind of buzzing in grey heap - serin has heard of them - there are creatures that come from different planes and when they die they will most likely will not stay in this dimension
 - they are starting to fade away 
 - serin wants so many of them - he puts 20 rocks in page as he opens the book - everything in his mind goes blank and black hears "i can tether these to the plane for you" he feels something but not sure what 

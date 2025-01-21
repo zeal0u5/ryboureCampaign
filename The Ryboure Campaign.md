@@ -4,7 +4,7 @@
 -   [[Serinus Alder Catiline of Nephrite]]
 -   [[Ogan the Flame Shell]]
 -   [[Sherrington (Sherry) Farehaven]]
-- [[Morana Vosnesensky]]
+-   [[Morana Vosnesensky]]
 
 ### Past Characters
 -   [[Lizee (in jail)]]
